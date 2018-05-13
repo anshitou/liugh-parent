@@ -1,0 +1,6 @@
+/tcjn-web/target/*
+/tcjn-common/target/*
+/tcjn-persistence/target/*
+/tcjn-service/target/*
+/.idea
+*.iml
